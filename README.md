@@ -35,3 +35,4 @@
 # Discussion - Rebase
 * What happens when the main branch continues to be updated while you are working on your feature?
 * We can use rebase to bring our feature branch up to date with either the main/development branch
+
