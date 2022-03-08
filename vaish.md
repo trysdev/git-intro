@@ -54,7 +54,7 @@ fffffffffffffff
 making some changes to check
 
 making some changes to check
-making some changes to check
+making some changes to checks
 
 1.commit
 ## hey
