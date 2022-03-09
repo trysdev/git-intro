@@ -37,4 +37,13 @@
 * We can use rebase to bring our feature branch up to date with either the main/development branch
 
 # Development
+
+
+# Chen's Edition
+* Updated 11:28 AM - Add thisin
+
+# Vaishnavi's Update
 MAKING CHNAGES TO READFILE
+
+# New measure code here
+
