@@ -38,3 +38,5 @@
 
 # Development
 
+# Chen's Edition
+* Updated 11:28 AM - Add thisin
